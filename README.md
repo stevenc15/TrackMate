@@ -120,3 +120,7 @@ TrackMate/
 - **Docker Setup**: Best practice to separate application components into different containers (frontend, backend, database)
 - **Frontend Styling**: More packages should have been used and researched upon for a more dynamic presentation of product
 - **Port Distribution**: Better understanding of port setup would have sped up whole development process
+
+
+## Demo
+[![Watch the demo](https://img.youtube.com/vi/PibIhiw_kro/maxresdefault.jpg)](https://youtu.be/PibIhiw_kro)
